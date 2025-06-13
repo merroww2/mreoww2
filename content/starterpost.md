@@ -12,17 +12,14 @@ draft: false
 
 
 
-<h1> This is the first post </h1>
+## This is the first post
 
-<br>
-
-<p> I really love this Hugo design. ksdjfslkdjhgioskjdgkljs
+I really love this Hugo design. ksdjfslkdjhgioskjdgkljs
 sdgjksdjgskdgjs
 dgjskdgsdgkjsdg,
 
 kdsjgksjdg
 
-<br>
+
 a break
 
-</p>
